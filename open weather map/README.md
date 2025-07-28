@@ -1,4 +1,4 @@
-# Weather App 🌤️
+# Weather App
 
 This is a simple weather app in Python that uses the OpenWeatherMap API to display weather info for a given city.
 
