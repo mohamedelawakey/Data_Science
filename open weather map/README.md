@@ -4,13 +4,13 @@ This is a simple weather app in Python that uses the OpenWeatherMap API to displ
 
 ---
 
-## 🔧 Features
-- Display temperature, humidity, and more in Arabic.
+## Features
+- Display temperature, humidity, and more.
 - Gets real-time data from OpenWeatherMap.
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Clone the repository:
    ```bash
